@@ -1,0 +1,677 @@
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.AssemblyReference.cache
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.CoreCompileInputs.cache
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\SOMIOD.dll.config
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\SOMIOD.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\SOMIOD.pdb
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\csc.exe
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\csc.exe.config
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\csc.rsp
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\csi.exe
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\csi.exe.config
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\csi.rsp
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.AppContext.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Collections.Immutable.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Console.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Globalization.Calendars.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.IO.Compression.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.IO.FileSystem.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Net.Http.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Net.Sockets.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Reflection.Metadata.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.ValueTuple.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Xml.XPath.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\vbc.exe
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\vbc.exe.config
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\vbc.rsp
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\VBCSCompiler.exe
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\roslyn\VBCSCompiler.exe.config
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.CoreUtility.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Editor.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.LanguageServices.16.3.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Text.Data.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Text.Logic.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.Wpf.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Threading.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Validation.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.Web.Infrastructure.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Newtonsoft.Json.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Net.Http.Formatting.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.Helpers.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.Http.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.Http.WebHost.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.Mvc.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.Razor.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.WebPages.Deployment.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.WebPages.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.WebPages.Razor.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.MSXML.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.CoreUtility.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Editor.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.OLE.Interop.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Shell.Interop.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Text.Data.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Text.Logic.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.Wpf.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Threading.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.VisualStudio.Validation.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.Helpers.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.Mvc.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.Razor.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.WebPages.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.WebPages.Deployment.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.WebPages.Razor.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Newtonsoft.Json.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Net.Http.Formatting.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.Http.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\System.Web.Http.WebHost.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.CopyComplete
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\obj\Debug\SOMIOD.dll
+D:\PraticaIS\Projeto\SOMIOD\SOMIOD\obj\Debug\SOMIOD.pdb
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\SOMIOD.dll.config
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\SOMIOD.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\SOMIOD.pdb
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\csc.exe
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\csc.exe.config
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\csc.rsp
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\csi.exe
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\csi.exe.config
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\csi.rsp
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.AppContext.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Collections.Immutable.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Console.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Globalization.Calendars.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.IO.Compression.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.IO.FileSystem.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Net.Http.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Net.Sockets.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Reflection.Metadata.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.ValueTuple.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Xml.XPath.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\vbc.exe
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\vbc.exe.config
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\vbc.rsp
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\VBCSCompiler.exe
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\roslyn\VBCSCompiler.exe.config
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.CoreUtility.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Editor.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.LanguageServices.16.3.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.Data.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.Logic.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Threading.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Validation.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Web.Infrastructure.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Newtonsoft.Json.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Net.Http.Formatting.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.Helpers.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.Http.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.Http.WebHost.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.Mvc.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.Razor.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.WebPages.Deployment.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.WebPages.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.WebPages.Razor.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.MSXML.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.CoreUtility.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Editor.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.OLE.Interop.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Shell.Interop.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.Data.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.Logic.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Threading.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Validation.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.Helpers.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.Mvc.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.Razor.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.WebPages.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.WebPages.Deployment.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.WebPages.Razor.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Newtonsoft.Json.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Net.Http.Formatting.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.Http.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Web.Http.WebHost.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\obj\Debug\SOMIOD.csproj.AssemblyReference.cache
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\obj\Debug\SOMIOD.csproj.CoreCompileInputs.cache
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\obj\Debug\SOMIOD.csproj.CopyComplete
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\obj\Debug\SOMIOD.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\obj\Debug\SOMIOD.pdb
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\SOMIOD.dll.config
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\SOMIOD.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\SOMIOD.pdb
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\csc.exe
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\csc.exe.config
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\csc.rsp
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\csi.exe
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\csi.exe.config
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\csi.rsp
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.AppContext.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Collections.Immutable.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Console.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Globalization.Calendars.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.IO.Compression.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.IO.FileSystem.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Net.Http.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Net.Sockets.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Reflection.Metadata.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.ValueTuple.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Xml.XPath.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\vbc.exe
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\vbc.exe.config
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\vbc.rsp
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\VBCSCompiler.exe
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\roslyn\VBCSCompiler.exe.config
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.CoreUtility.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Editor.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.LanguageServices.16.3.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.Data.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.Logic.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.Wpf.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Threading.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Validation.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Web.Infrastructure.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Newtonsoft.Json.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Net.Http.Formatting.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.Helpers.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.Http.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.Http.WebHost.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.Mvc.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.Razor.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.WebPages.Deployment.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.WebPages.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.WebPages.Razor.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.MSXML.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.CoreUtility.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Editor.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.OLE.Interop.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Shell.Interop.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.Data.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.Logic.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.Wpf.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Threading.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.VisualStudio.Validation.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.Helpers.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.Mvc.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.Razor.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.WebPages.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.WebPages.Deployment.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.WebPages.Razor.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Newtonsoft.Json.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Net.Http.Formatting.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.Http.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Web.Http.WebHost.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\obj\Debug\SOMIOD.csproj.AssemblyReference.cache
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\obj\Debug\SOMIOD.csproj.CoreCompileInputs.cache
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\obj\Debug\SOMIOD.csproj.CopyComplete
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\obj\Debug\SOMIOD.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\obj\Debug\SOMIOD.pdb
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\EntityFramework.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\EntityFramework.SqlServer.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Bcl.HashCode.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Logging.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Options.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Primitives.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Buffers.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Collections.Immutable.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.ComponentModel.Annotations.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Diagnostics.DiagnosticSource.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Memory.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Numerics.Vectors.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Threading.Tasks.Extensions.dll
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\EntityFramework.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\EntityFramework.SqlServer.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Bcl.HashCode.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Logging.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Options.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\Microsoft.Extensions.Primitives.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Buffers.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Collections.Immutable.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Diagnostics.DiagnosticSource.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Memory.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Numerics.Vectors.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\laragon\www\FasTuga2022\Somiod\SOMIOD\bin\System.Threading.Tasks.Extensions.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\EntityFramework.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\EntityFramework.SqlServer.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Bcl.HashCode.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Logging.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Options.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Primitives.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Buffers.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Collections.Immutable.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.ComponentModel.Annotations.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Diagnostics.DiagnosticSource.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Memory.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Numerics.Vectors.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Threading.Tasks.Extensions.dll
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\EntityFramework.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\EntityFramework.SqlServer.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Bcl.HashCode.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Logging.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Options.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\Microsoft.Extensions.Primitives.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Buffers.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Collections.Immutable.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Diagnostics.DiagnosticSource.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Memory.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Numerics.Vectors.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\FicheirosGitHub\Somiod\Somiod\SOMIOD\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\SOMIOD.dll.config
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\SOMIOD.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\SOMIOD.pdb
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\csc.exe
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\csc.exe.config
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\csc.rsp
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\csi.exe
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\csi.exe.config
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\csi.rsp
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.AppContext.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Console.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.IO.Compression.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Net.Http.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.ValueTuple.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\vbc.exe
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\vbc.exe.config
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\vbc.rsp
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\VBCSCompiler.exe
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\EntityFramework.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\EntityFramework.SqlServer.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Logging.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Options.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Editor.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.LanguageServices.16.3.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Threading.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Validation.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Newtonsoft.Json.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Buffers.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Collections.Immutable.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.ComponentModel.Annotations.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Memory.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Net.Http.Formatting.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Numerics.Vectors.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.Helpers.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.Http.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.Http.WebHost.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.Mvc.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.Razor.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.WebPages.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.WebPages.Razor.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.MSXML.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\EntityFramework.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\EntityFramework.SqlServer.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Logging.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Options.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Editor.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.LiveShare.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Threading.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.VisualStudio.Validation.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Buffers.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Collections.Immutable.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Memory.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Numerics.Vectors.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.Helpers.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.Mvc.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.Razor.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.WebPages.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.WebPages.Razor.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Newtonsoft.Json.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Net.Http.Formatting.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.Http.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\System.Web.Http.WebHost.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\obj\Debug\SOMIOD.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\obj\Debug\SOMIOD.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\obj\Debug\SOMIOD.csproj.CopyComplete
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\obj\Debug\SOMIOD.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\SOMIOD\obj\Debug\SOMIOD.pdb

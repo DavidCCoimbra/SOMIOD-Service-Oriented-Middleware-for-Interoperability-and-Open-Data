@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="root">
+		<xs:complexType>
+			<xs:choice>
+				<xs:element ref="Application" />
+				<xs:element ref="Module" />
+				<xs:element ref="Data" />
+				<xs:element ref="Subscription" />
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name="Application" type="appType"/>
+	<xs:element name="Module" type="appType"/>
+	<xs:element name="Data" type="dataType"/>
+	<xs:element name="Subscription" type="subType"/>
+	
+	<xs:complexType name="appType">
+		<xs:sequence>
+			<xs:element name="res_type" type="xs:string" minOccurs="0" maxOccurs="1"/>
+		</xs:sequence>
+		<xs:attribute name="res_type" type="xs:string" use="required"/>
+		<xs:attribute name="name" type="xs:string" use="optional"/>
+	</xs:complexType>
+	
+	<xs:complexType name="dataType">
+		<xs:sequence>
+			<xs:element name="res_type" type="xs:string" minOccurs="0" maxOccurs="1"/>
+		</xs:sequence>
+		<xs:attribute name="res_type" type="xs:string" use="required"/>
+		<xs:attribute name="content" type="xs:string" use="optional"/>
+	</xs:complexType>
+	
+	<xs:complexType name="subType">
+		<xs:sequence>
+			<xs:element name="res_type" type="xs:string" minOccurs="0" maxOccurs="1"/>
+		</xs:sequence>
+		<xs:attribute name="res_type" type="xs:string" use="optional"/>
+		<xs:attribute name="name" type="xs:string" use="optional"/>
+		<xs:attribute name="endpoint" type="xs:string" use="optional"/>
+		<xs:attribute name="event" type="eventType" use="optional"/>
+	</xs:complexType>
+
+	<xs:simpleType name="eventType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Creation" />
+			<xs:enumeration value="Deletion" />
+			<xs:enumeration value="Both" />
+		</xs:restriction>
+	</xs:simpleType>
+	
+</xs:schema>

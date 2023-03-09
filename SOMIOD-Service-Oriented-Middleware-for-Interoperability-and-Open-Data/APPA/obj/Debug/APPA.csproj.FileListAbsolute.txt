@@ -1,0 +1,70 @@
+D:\FicheirosGitHub\Somiod\Somiod\APPA\bin\Debug\APPA.exe.config
+D:\FicheirosGitHub\Somiod\Somiod\APPA\bin\Debug\APPA.exe
+D:\FicheirosGitHub\Somiod\Somiod\APPA\bin\Debug\APPA.pdb
+D:\FicheirosGitHub\Somiod\Somiod\APPA\bin\Debug\M2Mqtt.Net.dll
+D:\FicheirosGitHub\Somiod\Somiod\APPA\bin\Debug\MQTTnet.dll
+D:\FicheirosGitHub\Somiod\Somiod\APPA\bin\Debug\M2Mqtt.Net.pdb
+D:\FicheirosGitHub\Somiod\Somiod\APPA\bin\Debug\MQTTnet.xml
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.csproj.AssemblyReference.cache
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.csproj.SuggestedBindingRedirects.cache
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.Form1.resources
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.Forms.FormApplication.resources
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.Forms.FormData.resources
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.Forms.FormModules.resources
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.Forms.FormSubscription.resources
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.Properties.Resources.resources
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.csproj.GenerateResource.cache
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.csproj.CoreCompileInputs.cache
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.csproj.CopyComplete
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.exe
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.pdb
+D:\FicheirosGitHub\Somiod\Somiod\APPA\bin\Debug\APPA.exe.manifest
+D:\FicheirosGitHub\Somiod\Somiod\APPA\bin\Debug\APPA.application
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.exe.manifest
+D:\FicheirosGitHub\Somiod\Somiod\APPA\obj\Debug\APPA.application
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.csproj.AssemblyReference.cache
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.csproj.SuggestedBindingRedirects.cache
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.Form1.resources
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.Forms.FormApplication.resources
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.Forms.FormData.resources
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.Forms.FormModules.resources
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.Forms.FormSubscription.resources
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.Properties.Resources.resources
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.csproj.GenerateResource.cache
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.csproj.CoreCompileInputs.cache
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.exe
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.pdb
+C:\laragon\www\FasTuga2022\Somiod\APPA\bin\Debug\APPA.exe.config
+C:\laragon\www\FasTuga2022\Somiod\APPA\bin\Debug\APPA.exe.manifest
+C:\laragon\www\FasTuga2022\Somiod\APPA\bin\Debug\APPA.application
+C:\laragon\www\FasTuga2022\Somiod\APPA\bin\Debug\APPA.exe
+C:\laragon\www\FasTuga2022\Somiod\APPA\bin\Debug\APPA.pdb
+C:\laragon\www\FasTuga2022\Somiod\APPA\bin\Debug\M2Mqtt.Net.dll
+C:\laragon\www\FasTuga2022\Somiod\APPA\bin\Debug\M2Mqtt.Net.pdb
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.exe.manifest
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.application
+C:\laragon\www\FasTuga2022\Somiod\APPA\obj\Debug\APPA.csproj.CopyComplete
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\bin\Debug\APPA.exe.config
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\bin\Debug\APPA.exe.manifest
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\bin\Debug\APPA.application
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\bin\Debug\APPA.exe
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\bin\Debug\APPA.pdb
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\bin\Debug\M2Mqtt.Net.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\bin\Debug\MQTTnet.dll
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\bin\Debug\MQTTnet.xml
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.Form1.resources
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.Forms.FormApplication.resources
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.Forms.FormData.resources
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.Forms.FormModules.resources
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.Forms.FormSubscription.resources
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.Properties.Resources.resources
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.csproj.GenerateResource.cache
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.exe.manifest
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.application
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.csproj.CopyComplete
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.exe
+C:\Users\luisp\OneDrive\Ambiente de Trabalho\Somiod\Project\APPA\obj\Debug\APPA.pdb
